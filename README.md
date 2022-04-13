@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 <div class="ozzy">
     <div class="items">
     	<h4 class="title-ozzy">Start UI</h4>
-		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163111168-1d86dfa7-ff4a-4fee-b675-4031000a78d1.png">  
+		 <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163111484-035556dd-d41e-4d8e-8292-59ea1fe0599b.png">  
     </div>
   <div class="items">
     	<h4 class="title-ozzy">Login UI</h4>
@@ -34,7 +34,8 @@ samples, guidance on mobile development, and a full API reference.
     </div>
   <div class="items">
     	<h4 class="title-ozzy">Signup UI</h4>
-		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163111484-035556dd-d41e-4d8e-8292-59ea1fe0599b.png">  
+	  <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163111168-1d86dfa7-ff4a-4fee-b675-4031000a78d1.png"> 
+		
     </div>
     
 </div>
